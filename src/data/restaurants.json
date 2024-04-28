@@ -1,0 +1,20 @@
+[
+  {
+      "id": 1,
+      "name": "Restaurant A",
+      "address": "123 Main Street",
+      "pincode": "12345",
+      "mobileNumber": "123-456-7890",
+      "email": "restaurantA@example.com",
+      "website": "www.restaurantA.com"
+  },
+  {
+      "id": 2,
+      "name": "Restaurant B",
+      "address": "456 Elm Street",
+      "pincode": "67890",
+      "mobileNumber": "987-654-3210",
+      "email": "restaurantB@example.com",
+      "website": "www.restaurantB.com"
+  }
+]
